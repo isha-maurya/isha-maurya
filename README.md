@@ -61,18 +61,10 @@ I enjoy exploring how technology and data can be used to solve real-world proble
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isha-maurya&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isha-maurya&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ### 📫 Connect With Me
 
 - GitHub: [@isha-maurya](https://github.com/isha-maurya)
-- Instagram: Add your Instagram profile link
+- Linkedin: https:[//www.linkedin.com/in/isha-maurya-ab58302a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 ---
 
