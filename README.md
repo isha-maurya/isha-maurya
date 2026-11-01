@@ -64,7 +64,7 @@ I enjoy exploring how technology and data can be used to solve real-world proble
 ### 📫 Connect With Me
 
 - GitHub: [@isha-maurya](https://github.com/isha-maurya)
-- Linkedin: https:[//www.linkedin.com/in/isha-maurya-ab58302a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- Linkedin: [Linkedin] 
 
 ---
 
