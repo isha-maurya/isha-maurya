@@ -47,7 +47,7 @@ I enjoy exploring how technology and data can be used to solve real-world proble
 **4. Roomify**
 - Application development project exploring practical software solutions.
 
-[View Repository](https://github.com/isha-maurya/roomify)
+[View Repository](https://github.com/isha-maurya/roomify-main.git)
 
 ---
 
